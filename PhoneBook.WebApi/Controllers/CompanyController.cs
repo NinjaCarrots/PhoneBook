@@ -10,7 +10,6 @@ namespace PhoneBook.WebApi.Controllers
     public class CompanyController : ControllerBase
     {
         private readonly ICompanyService _companyService;
-
         public CompanyController(ICompanyService companyService)
         {
             _companyService = companyService;
@@ -77,6 +76,16 @@ namespace PhoneBook.WebApi.Controllers
 
             await _companyService.InsertCompany(_company);
             return CreatedAtAction("GetCompany", new { id = company.CompanyId }, _company);
+        }
+
+        [HttpGet("company-peoplecount")]
+        [ProducesResponseType(typeof(CompanyPeopleCount), 200)]
+        [ProducesResponseType(typeof(IDictionary<string, string>), 400)]
+        [ProducesResponseType(500)]
+        public async Task<IActionResult> GetCompanyWithPeopleCount()
+        {
+            var peopleCount = await _companyService.GetCompanyWithPeopleCount();
+            return Ok(peopleCount);
         }
     }
 }

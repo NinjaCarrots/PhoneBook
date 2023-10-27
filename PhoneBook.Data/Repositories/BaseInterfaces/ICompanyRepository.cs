@@ -10,6 +10,7 @@ namespace PhoneBook.Data.Repositories.BaseInterfaces
         Task<IEnumerable<Company>> GetAllCompanies();
         Task<IEnumerable<Company>> GetPagedCompanies(int pageIndex, int pageSize);
         Task<int> GetPersonCountByCompany(int companyId);
+        Task<IEnumerable<CompanyPeopleCount>> GetCompanyWithPeopleCount();
 
     }
 }

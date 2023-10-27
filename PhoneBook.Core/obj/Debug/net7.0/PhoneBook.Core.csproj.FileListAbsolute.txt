@@ -1,0 +1,11 @@
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Core\bin\Debug\net7.0\PhoneBook.Core.deps.json
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Core\bin\Debug\net7.0\PhoneBook.Core.dll
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Core\bin\Debug\net7.0\PhoneBook.Core.pdb
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\PhoneBook.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\PhoneBook.Core.AssemblyInfoInputs.cache
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\PhoneBook.Core.AssemblyInfo.cs
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\PhoneBook.Core.csproj.CoreCompileInputs.cache
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\PhoneBook.Core.dll
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\refint\PhoneBook.Core.dll
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\PhoneBook.Core.pdb
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Core\obj\Debug\net7.0\ref\PhoneBook.Core.dll

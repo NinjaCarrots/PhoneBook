@@ -1,0 +1,17 @@
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\bin\Debug\net7.0\PhoneBook.Service.deps.json
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\bin\Debug\net7.0\PhoneBook.Service.dll
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\bin\Debug\net7.0\PhoneBook.Service.pdb
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\bin\Debug\net7.0\PhoneBook.Core.dll
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\bin\Debug\net7.0\PhoneBook.Data.dll
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\bin\Debug\net7.0\PhoneBook.Core.pdb
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\bin\Debug\net7.0\PhoneBook.Data.pdb
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\obj\Debug\net7.0\PhoneBook.Service.csproj.AssemblyReference.cache
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\obj\Debug\net7.0\PhoneBook.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\obj\Debug\net7.0\PhoneBook.Service.AssemblyInfoInputs.cache
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\obj\Debug\net7.0\PhoneBook.Service.AssemblyInfo.cs
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\obj\Debug\net7.0\PhoneBook.Service.csproj.CoreCompileInputs.cache
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\obj\Debug\net7.0\PhoneBook.Service.csproj.CopyComplete
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\obj\Debug\net7.0\PhoneBook.Service.dll
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\obj\Debug\net7.0\refint\PhoneBook.Service.dll
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\obj\Debug\net7.0\PhoneBook.Service.pdb
+C:\Users\uktpsmndela\source\repos\PhoneBook\PhoneBook.Service\obj\Debug\net7.0\ref\PhoneBook.Service.dll

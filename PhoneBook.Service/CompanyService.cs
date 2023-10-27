@@ -39,5 +39,10 @@ namespace PhoneBook.Service
         {
             return await _companyRepository.InsertCompany(company);
         }
+
+        public async Task<IEnumerable<CompanyPeopleCount>> GetCompanyWithPeopleCount()
+        {
+            return await _companyRepository.GetCompanyWithPeopleCount();
+        }
     }
 }
